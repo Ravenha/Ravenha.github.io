@@ -69,23 +69,23 @@ social-network-links:
   github: Ravenha
   twitter: 
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: 
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: ""
+#  snapchat: 
+#  instagram: 
+#  youtube: 
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +6236804981
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+ # twitter: false
+ # facebook: false
+ # linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
